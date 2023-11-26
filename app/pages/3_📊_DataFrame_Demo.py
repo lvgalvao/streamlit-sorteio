@@ -54,4 +54,3 @@ except URLError as e:
     """
         % e.reason
     )
-z
